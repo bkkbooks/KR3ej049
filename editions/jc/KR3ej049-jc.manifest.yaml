@@ -1,0 +1,192 @@
+canonical_identifier: bkk:krp/KR3ej049/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej049/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 痧疹輯要
+  identifiers:
+    krp: KR3ej049
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej049.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej049_000-jc.yaml, hash: 'sha256:3dfe331c43fba083f2f2a108efefb48affb7fd4a2ba22a64331efb83302d656b'}
+  - {seq: 1, filename: KR3ej049_001-jc.yaml, hash: 'sha256:b14181bcb981f50a6aaec79d12958dffa4942f6ac49038d602379a340af55506'}
+  - {seq: 2, filename: KR3ej049_002-jc.yaml, hash: 'sha256:b68aa6e1f6ef62c0aebf351f8f8011a942e959ffd84e6ce85355c8199295a3fc'}
+  - {seq: 3, filename: KR3ej049_003-jc.yaml, hash: 'sha256:c6e2adf0ba6f2048b6deba34257b1ac6cc7c150a4f3db36432bd09f0d05aacb9'}
+  - {seq: 4, filename: KR3ej049_004-jc.yaml, hash: 'sha256:6fad678ebd3e2a2e1fa1f03fd75a276194ccea81134a4fecde39eab4eca79230'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej049_000-jc.markers.yaml, hash: 'sha256:2d715b26e752c7fd7d15abc476f0bd890377f4972bcf82b0c80120e2aaa25498'}
+  - {seq: 1, role: markers, filename: assets/KR3ej049_001-jc.markers.yaml, hash: 'sha256:7f9269c903b1263e0756381a540bac3cc4fab3aecdb8a400de9373974a23b758'}
+  - {seq: 2, role: markers, filename: assets/KR3ej049_002-jc.markers.yaml, hash: 'sha256:ff33f90d27df6537993fcc33faab2544aebd7e28e24e93d5d62cf462020979f6'}
+  - {seq: 3, role: markers, filename: assets/KR3ej049_003-jc.markers.yaml, hash: 'sha256:056c0db7569a0eec1cf6f65a0e9cd9c7c87b494ded1113f5205ade6563867b31'}
+  - {seq: 4, role: markers, filename: assets/KR3ej049_004-jc.markers.yaml, hash: 'sha256:da4562e6c7a30ea12b615bf243840c4f5222a9a2b93036e7a3eb3604c665da22'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej049_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 266
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej049_jc_000-d3.h1s1
+    span:
+    - front
+    - 266
+    - 427
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej049_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 484
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej049_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 10366
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej049_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 2726
+  label: 述原
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej049_jc_001-d5d3
+    span:
+    - body
+    - 2726
+    - 4656
+  label: 引種
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej049_jc_001-d5d4
+    span:
+    - body
+    - 4656
+    - 6058
+  label: 預防
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej049_jc_001-d5d5
+    span:
+    - body
+    - 6058
+    - 6060
+  label: 禁忌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej049_jc_001-d5d6
+    span:
+    - body
+    - 6060
+    - 10366
+  label: 辨證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej049_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11455
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej049_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 11455
+  label: 論治上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej049_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 14025
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ej049_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 14025
+  label: 論治下
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej049_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 14678
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ej049_jc_004-d8d2
+    span:
+    - body
+    - 2
+    - 6220
+  label: 運氣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej049_jc_004-d8d3
+    span:
+    - body
+    - 6220
+    - 14678
+  label: 選案
+  type: section
+  level: 2
+hash: sha256:3190d0b571de76ad8318ed9ee299faed5856bb8bba1db9d39ac6dd92e3e72944
