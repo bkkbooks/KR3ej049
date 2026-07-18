@@ -24,9 +24,9 @@ assets:
   - {seq: 4, filename: KR3ej049_004.yaml, hash: 'sha256:548759ef75a5e275d8336bb5eeb825b8973b47f8b8719047bfb614bc39d593bb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej049_000.markers.yaml, hash: 'sha256:d977ae344709ffdbedfe6f208be07c2d195acb0ee68dbc418f9e797d1cb4cf04'}
-  - {seq: 1, role: markers, filename: assets/KR3ej049_001.markers.yaml, hash: 'sha256:d11739795dc01ef57b48622cc3a9791fe2fca0c93dce9b661c1cf174c9aec66f'}
-  - {seq: 2, role: markers, filename: assets/KR3ej049_002.markers.yaml, hash: 'sha256:479799ebb0fe27e8428d9f137b0b9e882200ab652e2b8517a1081842147eaba8'}
-  - {seq: 3, role: markers, filename: assets/KR3ej049_003.markers.yaml, hash: 'sha256:515cf8c58b1bb8ab67fba185a183098c2555b9ffe8a454883dca8486545e7035'}
+  - {seq: 1, role: markers, filename: assets/KR3ej049_001.markers.yaml, hash: 'sha256:3b87907e1b02ef9ee7fe71b06f121c507078caf21f65f94ed03b24663e0c6298'}
+  - {seq: 2, role: markers, filename: assets/KR3ej049_002.markers.yaml, hash: 'sha256:125c4e6546a8f5254a5f58c81465c2303123356d2b1329e3f5091b4b6618a630'}
+  - {seq: 3, role: markers, filename: assets/KR3ej049_003.markers.yaml, hash: 'sha256:0053a9268cce2287ab4748014ee2ed4d384baa3e09ff35d6f439827d994fed2d'}
   - {seq: 4, role: markers, filename: assets/KR3ej049_004.markers.yaml, hash: 'sha256:461f16e5d4ad3504eed55d0cc5b530ecde2444ec98d8aa525be90c176a659ddf'}
 table_of_contents:
 - ref:
@@ -189,7 +189,7 @@ table_of_contents:
   label: 選案
   type: section
   level: 2
-hash: sha256:290a625b2aa00909230589986c6df88c66e13397017d9dc32ad7cc281b0eb097
+hash: sha256:29a3e811f5160537562b84467814e2f5a29db56e04f77b80d0eaa72e2c6a9ce1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
